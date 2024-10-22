@@ -25,7 +25,7 @@ This project adheres to a [Code of Conduct](CODE-OF-CONDUCT.md) to promote a wel
 
 ## License
 
-[Your Project Name] is licensed under the [Your License Name] License. See the [LICENSE](LICENSE) file for more details.
+Git homework is licensed under the MIT License. See the [LICENSE](https://github.com/SE-Fall-2024-Team-53/git-homework/blob/main/License.md) file for more details.
 
 ---
 
