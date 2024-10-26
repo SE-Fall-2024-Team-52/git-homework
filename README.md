@@ -4,6 +4,9 @@
 
 Welcome to **git-homework**! This project contains CSC 510 Homework 5. Below you'll find all the necessary information to get started, contribute, and comply with the project's community guidelines.
 
+# Team
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/486f2d8a-f240-49b1-8493-1d17f459d00b">
+
 ## Table of Contents
 
 - [Installation](#installation)
